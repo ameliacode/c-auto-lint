@@ -5,5 +5,5 @@ repos:
       - id: clang-format
         name: clang-format (C++)
         files: \.(cpp|hpp|cc|h)$
-        args: [--style=file] # use .clang-format file
+        args: [--style=file] # uses your .clang-format
         stages: [commit]

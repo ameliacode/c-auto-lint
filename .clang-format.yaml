@@ -1,0 +1,6 @@
+BasedOnStyle: Google
+IndentWidth: 4 # optional: Google default is 2, change if you prefer 4
+ColumnLimit: 100 # optional, default is 80
+AllowShortFunctionsOnASingleLine: Empty
+PointerAlignment: Left
+DerivePointerAlignment: false
